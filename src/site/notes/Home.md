@@ -4,6 +4,7 @@
 
 [[Como instalar o Syncthing\|Como instalar o Syncthing]]
 [[O que é um Digital Garden\|O que é um Digital Garden]]
+[[Como publicar no Garden\|Como publicar no Garden]]
 
 
 
