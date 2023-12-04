@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-[[Teste\|Teste]]
-[[Teste 2\|Teste 2]]
-Pepa tchola 
+[[Como instalar o Syncthing\|Como instalar o Syncthing]]
+[[O que é um Digital Garden\|O que é um Digital Garden]]
+
+
+
+
+
+
