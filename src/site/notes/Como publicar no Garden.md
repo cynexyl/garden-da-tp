@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/como-publicar-no-garden/"}
 ---
 
-Usando a Command Pallette (CTRL+P ou command+P) dentro do Obsidian, basta digitar "dg" e ver as opções do plugin, incluindo as opções de publicar a página atual ou tudo (não recomendado, pode causar conflitos)
+Usando a Command Palette (CTRL+P ou command+P) dentro do Obsidian, basta digitar "dg" e ver as opções do plugin, incluindo as opções de publicar a página atual ou tudo (não recomendado, pode causar conflitos)
 
 Toda página que deve ser publicada precisa necessariamente incluir a propriedade `dg-publish` como `true` 
 
