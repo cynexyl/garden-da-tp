@@ -15,3 +15,4 @@
 | Moka                     | ?                   | ?                                      |
 | Porta filtro             | ?                   | ?                                      |
 | Bacon                    | FA Defumados        | https://www.faoficial.com/             |
+| Manteiga                 | ?                   | ?                                      |
