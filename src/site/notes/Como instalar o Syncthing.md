@@ -27,3 +27,5 @@ Com isso, a pasta da vault deve sincronizar e aparecer localmente no seu disposi
 Tendo isso feito, basta abrir a pasta como uma vault no Obsidian.
 
 ![Pasted image 20231204184702.png](/img/user/Images/Pasted%20image%2020231204184702.png)
+
+**Nota pros membros**: Pedir o Device ID pro Igor
