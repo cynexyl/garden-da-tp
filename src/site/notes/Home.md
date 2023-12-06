@@ -3,11 +3,10 @@
 ---
 
 
-[[O que é um Digital Garden\|O que é um Digital Garden]]
-
 
 [[Meta\|Meta]]
 [[Food & Drinks\|Food & Drinks]]
+[[Guides\|Guides]]
 [[Recomendacoes de Produtos\|Recomendacoes de Produtos]]
 
 
