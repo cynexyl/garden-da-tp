@@ -22,6 +22,7 @@ Crie sua conta no RD pelo link acima, crie uma conta no Stremio.
 A seguir, usando o link de Addons da comunidade, configure o Torrentio;
 [Pagina de config do Torrentio]([https://torrentio.strem.fun/configure](https://torrentio.strem.fun/configure)
 
+
 Pegue sua [API key do RD]([https://real-debrid.com/apitoken](https://real-debrid.com/apitoken), marque a opção de Debrid Provider na página de config como Real Debrid, cole sua chave lá, e clique em instalar.
 
 Com isso já deve estar funcionando, no Stremio procure pelas opções com o prefixo `[RB+]`
